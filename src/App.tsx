@@ -1,8 +1,8 @@
 import "./App.css";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
-import Home from "./Components/Home";
-import Login from "./Components/Login";
-import SignUp from "./Components/SignUp";
+import Home from "./components/Home";
+import Login from "./components/Login";
+import SignUp from "./components/SignUp";
 
 const App: React.FC = () => {
   return(
